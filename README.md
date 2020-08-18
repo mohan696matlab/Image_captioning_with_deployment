@@ -49,7 +49,13 @@ NOTE - You can skip the training part by directly downloading the weights and mo
 
 
 ## Results
-Following are a few results obtained after training the model for 70 epochs.
+Following are a few results obtained after training the model for 75 epochs.
+
+![alt text](Image\1.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
 
 
 
