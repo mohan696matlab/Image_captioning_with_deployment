@@ -1,0 +1,33 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+from flask import Flask, render_template, redirect, request
+import Prediction
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return render_template("index2.html")
+
+@app.route('/',methods=['POST'])
+def marks():
+    if request.method == 'POST':
+        f = request.files['userfile']
+        path = "./static/{}".format(f.filename)
+        f.save(path)
+        
+        caption = Prediction.caption_this_image(path)
+        
+        result_dic = {'image':path,'caption':caption}
+        
+        
+        
+    return render_template("index2.html", your_result = result_dic)    
+
+if __name__ == '__main__':
+    app.run(threaded=False)
+
