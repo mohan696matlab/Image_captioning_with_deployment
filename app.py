@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return render_template("index2.html")
+    return render_template("index.html")
 
 @app.route('/',methods=['POST'])
 def marks():
@@ -26,7 +26,7 @@ def marks():
         
         
         
-    return render_template("index2.html", your_result = result_dic)    
+    return render_template("index.html", your_result = result_dic)    
 
 if __name__ == '__main__':
     app.run(threaded=False)
