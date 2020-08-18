@@ -47,8 +47,6 @@ descriptions['101654506_8eb26cfb60'] = ['A brown and white dog is running throug
 
 NOTE - You can skip the training part by directly downloading the weights and model file and placing them in the Output folder since the training part wil take a lot of time if working on a non-GPU system. A GTX 1050 Ti with 4 gigs of RAM takes around 10-15 minutes for one epoch.
 
-## Output
-The output of the model is a caption to the image and a python library called pyttsx which converts the generated text to audio
 
 ## Results
 Following are a few results obtained after training the model for 70 epochs.
