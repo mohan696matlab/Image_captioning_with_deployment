@@ -51,11 +51,12 @@ NOTE - You can skip the training part by directly downloading the weights and mo
 ## Results
 Following are a few results obtained after training the model for 75 epochs.
 
-![alt text](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/1.JPG)
-![alt text](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/2.JPG)
-![alt text](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/3.JPG
-![alt text](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/4.JPG)
-![alt text](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/6.JPG)
+#### ![1](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/1.JPG)
+
+#### ![2](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/2.JPG)
+#### ![3](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/3.JPG)
+#### ![4](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/4.JPG)
+#### ![5](https://github.com/mohan696matlab/Image_captioning_with_deployment/blob/master/Images/6.JPG)
 
 
 
