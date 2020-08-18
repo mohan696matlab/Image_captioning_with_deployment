@@ -67,9 +67,5 @@ Following are a few results obtained after training the model for 70 epochs.
 [1] Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
 #### Data
 https://illinois.edu/fb/sec/1713398
-#### VGG16 Model
-https://github.com/fchollet/deep-learning-models
-#### Saved Model
-https://drive.google.com/drive/folders/1aukgi_3xtuRkcQGoyAaya5pP4aoDzl7r
 #### Code reference
 https://github.com/anuragmishracse/caption_generator
